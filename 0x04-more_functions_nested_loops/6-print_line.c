@@ -1,4 +1,4 @@
-#includ "main.h"
+#include "main.h"
 
 /**
  * print_line - Draws a line
@@ -6,7 +6,7 @@
  * Return: Empty
  */
 
-void print_line(int n);
+void print_line(int n)
 {
 	int x;
 
